@@ -14,5 +14,5 @@ static_root/
 .idea/
 .env
 *.log
-.python-version
+
 
