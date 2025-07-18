@@ -33,7 +33,6 @@ gitdb2==2.0.6
 GitPython==3.1.43
 graphviz==0.20.1
 gunicorn==22.0.0
-
 httplib2==0.22.0
 idna==3.7
 imagesize==1.4.1
