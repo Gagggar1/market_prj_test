@@ -6,3 +6,4 @@ psycopg2==2.9.9
 social-auth-core==4.7.0
 social-auth-app-django==5.5.1
 Pillow==10.3.0
+python-dotenv==1.0.1
